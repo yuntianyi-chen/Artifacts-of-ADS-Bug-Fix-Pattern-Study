@@ -5,7 +5,7 @@
 
 This is the first bug-fix pattern study in the ADS domain. Our proposed hierarchical classification of ADS bug-fix pattern study includes 15 syntactic and 27 semantic bug-fix patterns, as well as root causes, symptoms, modules, sub-modules, related algorithms, and detailed bug-fix actions. This taxonomy is instrumental for developers, testers, and researchers in developing automated bug detection and repair tools for ADS.
 
-The **published paper** (currently unreleased) of this ADS Bug-Fix Pattern Study will be available at [ACM FSE 2025](https://doi.org/10.1145/3715733). Now you can access the **pre-print version** of this paper at [Arxiv](https://arxiv.org/abs/2502.01937).
+The **published paper** (currently unreleased) of this ADS Bug-Fix Pattern Study will be available at [![ACM FSE 2025](https://img.shields.io/badge/FSE%202025%20DOI-10.1145%2F3715733-blue.svg)](https://doi.org/10.1145/3715733). Now you can access the **pre-print version** of this paper at [![arXiv](https://img.shields.io/badge/arXiv-2502.01937-b31b1b.svg)](https://arxiv.org/abs/2502.01937)
 
 The **artifacts** of this project are also available at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14776290.svg)](https://doi.org/10.5281/zenodo.14776290)
 
