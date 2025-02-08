@@ -58,5 +58,10 @@ This paper is accepted by FSE 2025, which is not published yet. Currently, we pr
 If you use the data or code in this repository, please cite the following paper:
 
 ```aiignore
-xxx
+@article{chen2025comprehensive,
+  title={A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems},
+  author={Chen, Yuntianyi and Huai, Yuqi and He, Yirui and Li, Shilong and Hong, Changnam and Chen, Qi Alfred and Garcia, Joshua},
+  journal={arXiv preprint arXiv:2502.01937},
+  year={2025}
+}
 ```
