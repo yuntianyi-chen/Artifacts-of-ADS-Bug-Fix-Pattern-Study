@@ -53,7 +53,7 @@ The **artifacts** of this project are also available at [![DOI](https://zenodo.o
 
 ## Paper Citation
 
-This paper is accepted by FSE 2025, which is not published yet. Currently, we provide an Arxiv version of this paper. We will update the paper citation once it is published.
+This paper is accepted by FSE 2025, which is not published yet. Currently, we provide an arXiv version of this paper. We will update the paper citation once it is published.
 
 If you use the data or code in this repository, please cite the following paper:
 
