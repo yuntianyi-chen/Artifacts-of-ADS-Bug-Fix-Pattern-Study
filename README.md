@@ -59,9 +59,23 @@ If you use the data or code in this repository, please cite the following paper:
 
 ```aiignore
 @article{chen2025comprehensive,
-  title={A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems},
-  author={Chen, Yuntianyi and Huai, Yuqi and He, Yirui and Li, Shilong and Hong, Changnam and Chen, Qi Alfred and Garcia, Joshua},
-  journal={arXiv preprint arXiv:2502.01937},
-  year={2025}
+  author       = {Yuntianyi Chen and
+                  Yuqi Huai and
+                  Yirui He and
+                  Shilong Li and
+                  Changnam Hong and
+                  Qi Alfred Chen and
+                  Joshua Garcia},
+  title        = {A Comprehensive Study of Bug-Fix Patterns in Autonomous Driving Systems},
+  journal      = {CoRR},
+  volume       = {abs/2502.01937},
+  year         = {2025},
+  url          = {https://doi.org/10.48550/arXiv.2502.01937},
+  doi          = {10.48550/ARXIV.2502.01937},
+  eprinttype    = {arXiv},
+  eprint       = {2502.01937},
+  timestamp    = {Mon, 10 Mar 2025 13:18:36 +0100},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2502-01937.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
